@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6d292e2068a71797e9aae2bbfcf225783afadd16",
+    "author": "rOpenSci Bot <myrmecocystus+ropenscibot@gmail.com>",
+    "time": "2019-12-09 14:30:25",
+    "files": 1,
+    "merge": false,
+    "message": "Add links to official docs site.\nFor more details: https://ropensci.org/technotes/2019/06/07/ropensci-docs/\n"
+  },
+  "remote": "https://github.com/ropensci/rAvis",
+  "pkg": "rAvis"
+}
